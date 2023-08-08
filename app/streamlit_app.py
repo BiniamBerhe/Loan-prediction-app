@@ -9,7 +9,7 @@ from streamlit_lottie import st_lottie_spinner
 
 
 # Load the model
-loaded_model = pickle.load(open("../Model/RF_Regressor.pkl", "rb"))
+loaded_model = pickle.load(open("Model/RF_Regressor.pkl", "rb"))
 
 
 def main():
