@@ -28,11 +28,8 @@ Key Findings 🏦💲📊:
 - [Exploratory Data Analysis Results](#exploratory-data-analysis-results-📈)
 - [Recommendations](#recommendations)
 - [Limitation and Improvement to be made](#limitation-and-improvement-to-be-made)
-- [Run Locally](#run-locally)
-- [Explore the notebook](#explore-the-notebook)
-- [Deployment on streamlit](#deployment-on-streamlit)
-- [App deployed on Streamlit](#app-deployed-on-streamlit)
-- [Contribution](#contribution)
+- [App Usage](#app-usage)
+- [For local use](#for-local-use)
 - [License](#license)
 
 ## Business problem
@@ -91,7 +88,7 @@ Cross validation results
 - Loan Sanction Amount shows a separation between zero and non zero vales, retraining the model with non zero amount showed much better result
 - Additional Feature engineering could be done to enhance the dataset
 
-## Usage
+## App Usage
 
 The app is available in this link
 
