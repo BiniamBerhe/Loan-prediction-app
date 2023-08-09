@@ -90,7 +90,7 @@ Cross validation results
 
 ## App Usage
 
-The app is available in this link
+The app is available in this link https://loan-prediction-app-bb.streamlit.app/
 
 ![Streamlit GIF](assets/gif_streamlit.gif)
 
